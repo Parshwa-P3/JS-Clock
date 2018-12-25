@@ -1,2 +1,2 @@
-# JS-Clock
-A simple clock based on your computers time made using p5.js
+# P5JS-Projects
+Some simple p5.js projects made by me.
